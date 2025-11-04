@@ -4,7 +4,7 @@ import sidebar from './sidebar.mts'
 export default defineConfig({
   title: '产品技术文档中心',
   description: '面向团队的统一产品文档与技术知识库',
-  base: '/docs/',
+  base: '/datanex-doc/',
   themeConfig: {
     logo: '/logo.png',
     nav: [
